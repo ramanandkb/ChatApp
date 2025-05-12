@@ -35,10 +35,11 @@ A real-time web-based chat application built using **Python**, **FastAPI**, **We
 ### Installation
 
 1. Clone the repository:
+   
    ```bash
    git clone https://github.com/yourusername/real-time-chat-app.git
    cd real-time-chat-app
-````
+
 
 2. Install dependencies:
 
